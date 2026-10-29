@@ -5,7 +5,7 @@ export default function RootPage() {
     <main>
       <meta httpEquiv="refresh" content="0;url=/en" />
       <p>
-        Redirecting to <Link href="/en">VV: ULTIMATUM Wiki</Link>…
+        Redirecting to <Link href="/en">Gundam Battle Operation 3 Wiki</Link>…
       </p>
     </main>
   );
