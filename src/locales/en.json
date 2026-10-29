@@ -39,288 +39,370 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the Raid, General, and Support class triangle, then build a first-sortie plan around stun timing, boost management, and Base Camp basics."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Combat Basics",
+          "description": "Master the stun-to-melee loop, range brackets, and boost management that decide exchanges in Gundam Battle Operation 3."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Mobile Suits",
+          "description": "Compare the launch series and suit roles, then choose a balanced General, Raid, and Support lineup for your first matches."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Gundam Battle Operation 3."
+          "title": "SP Skills Guide",
+          "description": "Understand how the new SP Skill layer fits around weapon rotations, squad timing, and objective pushes in Gundam Battle Operation 3."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Gundam Battle Operation 3 Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Mobile Suit Roster",
+        "Combat System",
+        "Network Test"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Start with the class triangle, stun timing, boost management, and the first-sortie habits that carry into every match.",
+          "href": "/guide/gundam-battle-operation-3-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Roster",
+          "title": "Mobile Suit Roster",
+          "description": "Review the confirmed launch series, Raid, General, and Support roles, and the first-year timeline plan.",
+          "href": "/characters/gundam-battle-operation-3-mobile-suit-roster"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Mechanics",
+          "title": "Combat System",
+          "description": "Break down stun buildup, weapon rotations, melee follow-ups, boost escapes, and team pressure.",
+          "href": "/mechanics/gundam-battle-operation-3-combat-system"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Test",
+          "title": "Network Test",
+          "description": "Prepare your account, download, controls, and match plan for the limited Gundam Battle Operation 3 test windows.",
+          "href": "/guide/gundam-battle-operation-3-network-test"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Analysis",
+          "title": "Tier Framework",
+          "description": "Use role fit, team composition, and S-to-C criteria to judge every mobile suit as the roster grows.",
+          "href": "/tips/gundam-battle-operation-3-tier-list"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Platforms",
+          "title": "Crossplay Guide",
+          "description": "See how the shared PlayStation and Steam matchmaking pool changes lobbies, squads, and input planning.",
+          "href": "/platforms/gundam-battle-operation-3-crossplay"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "News",
+          "title": "Release Date",
+          "description": "Track the October 2026 reveal, confirmed platforms, network tests, launch series, and release-date updates.",
+          "href": "/guide/gundam-battle-operation-3-release-date"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "PC",
+          "title": "Steam Guide",
+          "description": "Review the first PC release in the series, confirmed crossplay, SP Skills, and pre-launch setup checks.",
+          "href": "/platforms/gundam-battle-operation-3-steam"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Modes",
+          "title": "Game Modes",
+          "description": "Compare casual, ranked, custom, and PvE queues across ground and space battle playlists.",
+          "href": "/modes/gundam-battle-operation-3-game-modes"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Gundam Battle Operation 3?",
       "paragraphs": [
-        "Gundam Battle Operation 3 is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Gundam Battle Operation 3 is Bandai Namco's free-to-play, large-scale team combat game for PlayStation 5 and PC. Pilots take mercenary mobile suits into online battles built around the Raid, General, and Support class triangle, mixing ranged pressure, stun timing, melee follow-ups, and boost management.",
+        "The October 28, 2026 reveal confirmed crossplay between PS5 and Steam, a new SP Skill system, a social Base Camp hub, and launch units drawn from Mobile Suit Gundam, The 08th MS Team, 0083: Stardust Memory, and SEED. A release date has not been announced."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Bandai Namco Entertainment"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Platforms",
+          "value": "PS5 & PC"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Release Date",
+          "value": "TBA"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Price",
+          "value": "Free-to-Play"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Players",
+          "value": "1-18"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Crossplay",
+          "value": "PS5 + Steam"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Launch Series",
+          "value": "4"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore Gundam Battle Operation 3 Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Gundam Battle Operation 3",
+      "description": "Plan your first sortie with the confirmed mobile suit roster, combat systems, network test details, platform information, and launch updates.",
       "modules": [
         {
           "order": 1,
-          "name": "Gundam Battle Operation 3 Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/gundam-battle-operation-3-codes",
-          "displayType": "code-box",
+          "name": "Gundam Battle Operation 3 Mobile Suit Roster",
+          "description": "Explore the confirmed launch series, the Raid, General, and Support class triangle, and the first-year plan for adding more Gundam timelines.",
+          "href": "/characters/gundam-battle-operation-3-mobile-suit-roster",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "S",
+              "detail": "Meta-defining roles: a suit that fits any composition and forgives average execution"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "A",
+              "detail": "Reliable roles: strong in the right team, with one clear weakness to manage"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "B",
+              "detail": "Situational roles: wins specific maps or matchups with squad support"
+            },
+            {
+              "label": "C",
+              "detail": "Niche roles: narrow specialists that reward deliberate team coordination"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
+          "name": "Gundam Battle Operation 3 Beginner Guide",
+          "description": "Learn team-based combat, Mobile Suit and infantry operations, battlefield objectives, and the habits that keep a first sortie productive.",
           "href": "/guide/gundam-battle-operation-3-beginner-guide",
-          "displayType": "feature-cards",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Pick a General suit first to learn the stun-and-melee loop with the most forgiving stat line."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Practice boost management, stun buildup, and retreating before the enemy squad collapses on you."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Balance the lobby with Raid, General, and Support roles instead of stacking one class."
+            },
+            {
+              "label": "4",
+              "detail": "Clear tutorials and Base Camp rewards, then invest in two suits rather than spreading resources."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/gundam-battle-operation-3-tier-list",
-          "displayType": "tier-grid",
+          "name": "Gundam Battle Operation 3 Gameplay Mechanics",
+          "description": "Explain the core combat systems, including SP Skills, Mobile Suit combat, infantry actions, and tactical team play.",
+          "href": "/mechanics/gundam-battle-operation-3-combat-system",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Stun",
+              "detail": "Ranged buildup opens the melee window; chain the two instead of trading shots."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Boost",
+              "detail": "Save enough gauge to dodge or disengage after committing to a fight."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Range",
+              "detail": "Use each weapon inside its effective bracket, from beam-rifle lanes to close melee."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Team",
+              "detail": "Pressure objectives together; isolated pilots lose exchanges regardless of suit."
+            },
+            {
+              "label": "SP Skills",
+              "detail": "Plan the new match-swinging ability around weapon cooldowns and squad timing."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/gundam-battle-operation-3-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Gundam Battle Operation 3 Network Test",
+          "description": "Track the Japan-only cross-play sessions on November 20 and 22, the planned wider open test, and the steps to make each limited window count.",
+          "href": "/guide/gundam-battle-operation-3-network-test",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Confirm the active test window and region before downloading the client."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Register and launch with the same platform account to avoid eligibility errors."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Pre-load the build, finish onboarding, and set camera sensitivity before your first queue."
+            },
+            {
+              "label": "4",
+              "detail": "Play full matches, note your control settings, and use any survey to report issues."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/gundam-battle-operation-3-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Gundam Battle Operation 3 SP Skills Guide",
+          "description": "Understand the announced SP Skill system and how a match-swinging activation fits around weapon rotations, squad pressure, and objective timing.",
+          "href": "/mechanics/gundam-battle-operation-3-weapon-system",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Timing",
+              "detail": "Hold the activation for a stalled push or a collapsing flank rather than spending it on cooldown."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Rotation",
+              "detail": "Build the rest of the loadout around the SP Skill so ranged and melee tools cover its recovery."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Squad",
+              "detail": "Coordinate the activation with teammates to convert a brief advantage into an objective hold."
+            },
+            {
+              "label": "Objective",
+              "detail": "Use the swing to break a defensive line or secure a capture point, not to chase a lone kill."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/gundam-battle-operation-3-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Gundam Battle Operation 3 System Requirements",
+          "description": "Summarize the confirmed PlayStation 5 and Steam release, crossplay support, and the PC details to check before launch.",
+          "href": "/platforms/gundam-battle-operation-3-steam",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "PS5",
+              "detail": "Confirmed launch platform alongside PC, with no PS4 version announced."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Steam",
+              "detail": "The first mainline PC release in the series, with a Steam page planned for wishlisting and updates."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Crossplay",
+              "detail": "PlayStation and Steam players share one matchmaking pool from launch."
+            },
+            {
+              "label": "Specs",
+              "detail": "Official PC hardware requirements have not been published; check the Steam page before upgrading."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Gundam Battle Operation 3 Crossplay Guide",
+          "description": "Explain the confirmed PlayStation 5 and Steam crossplay support and what the shared matchmaking pool means for squads and match quality.",
+          "href": "/platforms/gundam-battle-operation-3-crossplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Shared",
+              "detail": "PlayStation and Steam players enter one shared matchmaking pool."
+            },
+            {
+              "label": "Lobbies",
+              "detail": "Crossplay should keep queues healthier across regions and less popular playlists."
+            },
+            {
+              "label": "Party",
+              "detail": "Formal cross-platform party behavior has not been detailed; confirm it in the official FAQ."
+            },
+            {
+              "label": "Progress",
+              "detail": "Cross-progression and Battle Operation 2 suit carryover have not been announced."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Gundam Battle Operation 3 Release Date and Updates",
+          "description": "Track the official release date, development announcements, new Mobile Suit reveals, gameplay showcases, and future content updates.",
+          "href": "/guide/gundam-battle-operation-3-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Announced",
+              "detail": "The game was revealed on October 28, 2026 for PS5 and PC."
+            },
+            {
+              "label": "Release",
+              "detail": "No launch date, season, or window has been announced."
+            },
+            {
+              "label": "Trailer",
+              "detail": "The announcement trailer was published in six language versions."
+            },
+            {
+              "label": "Launch",
+              "detail": "Four series are confirmed for launch: Mobile Suit Gundam, 08th MS Team, 0083, and SEED."
+            },
+            {
+              "label": "Year One",
+              "detail": "Two to three additional Alternative-timeline series are planned during the first year."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Gundam Battle Operation 3.",
+      "title": "Gundam Battle Operation 3 FAQ",
+      "description": "Quick answers about Gundam Battle Operation 3 platforms, combat, network tests, and launch plans.",
       "items": [
         {
           "question": "What is Gundam Battle Operation 3?",
-          "answer": "Gundam Battle Operation 3 is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Gundam Battle Operation 3 is Bandai Namco's free-to-play team combat game for PS5 and PC. Players pilot mobile suits in large-scale online battles built around the Raid, General, and Support class triangle."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Which platforms will Gundam Battle Operation 3 support?",
+          "answer": "Gundam Battle Operation 3 is confirmed for PlayStation 5 and Steam. The two platforms share crossplay, and no PS4, Xbox, or Nintendo version has been announced."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "When does Gundam Battle Operation 3 release?",
+          "answer": "Bandai Namco has not announced a release date for Gundam Battle Operation 3. A Japan-only cross-play network test is scheduled for November 20 and 22, with a wider open test planned."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Which mobile suits are confirmed for Gundam Battle Operation 3 at launch?",
+          "answer": "Gundam Battle Operation 3 draws its launch roster from Mobile Suit Gundam, The 08th MS Team, 0083: Stardust Memory, and SEED. Two to three more Alternative series are planned in year one."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How does combat work in Gundam Battle Operation 3?",
+          "answer": "Gundam Battle Operation 3 combines ranged stun buildup, melee follow-ups, boost management, and the Raid, General, and Support class triangle. The new SP Skill system adds a match-swinging tactical option."
+        },
+        {
+          "question": "Do I need to play Battle Operation 2 before Gundam Battle Operation 3?",
+          "answer": "No. Gundam Battle Operation 3 is a standalone free-to-play entry, though experience with the earlier game's class roles and boost timing provides a useful head start."
         }
       ]
     },
@@ -337,7 +419,7 @@
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
+    "playOnRoblox": "Play Gundam Battle Operation 3",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
