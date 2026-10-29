@@ -33,6 +33,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/watch?v=hTdVcrrSK1w",
     twitter: "https://x.com/GBO_EN",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "ko"],
   defaultLocale: "en",
 };

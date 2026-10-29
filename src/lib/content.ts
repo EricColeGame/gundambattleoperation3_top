@@ -257,14 +257,27 @@ const GROUP_TITLES_JA: Record<string, string> = {
   tips: "攻略のコツ",
 };
 
+// 韓国語のグループタイトル
+const GROUP_TITLES_KO: Record<string, string> = {
+  guide: "초보자 가이드",
+  platforms: "플랫폼",
+  mechanics: "전투 시스템",
+  characters: "모빌슈트",
+  modes: "게임 모드",
+  progression: "성장",
+  tips: "팁 & 티어 리스트",
+};
+
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  ko: GROUP_TITLES_KO,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  ko: "목록",
 };
 
 // 分组排序顺序

@@ -1,1 +1,493 @@
-{}
+{
+  "site": {
+    "name": "ガンダムバトルオペレーション3 Wiki",
+    "shortName": "GBO3 Wiki",
+    "tagline": "モビルスーツ攻略、SPスキル、戦術戦闘",
+    "description": "モビルスーツガンダムバトルオペレーション3の機体攻略、SPスキル、戦闘戦略、初心者向けのコツ、チーム戦術、対応機種、公式ゲーム情報をまとめた総合ガイド。",
+    "legalNotice": "独立したファンWikiです。バンダイナムコエンターテインメントおよびガンダム権利者とは提携していません。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "platforms": "対応機種",
+    "mechanics": "戦闘システム",
+    "characters": "モビルスーツ",
+    "modes": "ゲームモード",
+    "progression": "進行",
+    "tips": "攻略のコツ",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切替"
+  },
+  "home": {
+    "meta": {
+      "title": "ガンダムバトルオペレーション3 Wiki - 機体と攻略ガイド",
+      "description": "ガンダムバトルオペレーション3のモビルスーツ攻略、SPスキル、戦闘戦略、初心者向けのコツ、チーム戦術、対応機種、公式ゲーム情報を紹介。"
+    },
+    "hero": {
+      "eyebrow": "基本プレイ無料の戦術メカチーム戦闘",
+      "title": "ガンダムバトルオペレーション3 Wiki",
+      "description": "モビルスーツガンダムバトルオペレーション3の機体攻略、戦闘戦略、SPスキル、初心者向けのコツ、チーム戦術、最新ゲーム情報を解説。",
+      "stats": [
+        "1〜18人",
+        "2機種",
+        "発売日未定",
+        "基本プレイ無料"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "PS5 & Steamでプレイ",
+      "tertiaryCta": "SPスキルガイド",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "ガンダムバトルオペレーション3の歩み",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "レイド・汎用・支援の三すくみを学び、スタンのタイミング、ブースト管理、ベースキャンプの基本を軸に初陣の計画を立てましょう。"
+        },
+        {
+          "number": "2",
+          "title": "戦闘の基本",
+          "description": "ガンダムバトルオペレーション3の撃ち合いを左右する、スタンから格闘へのつなぎ、射程帯、ブースト管理をマスターしましょう。"
+        },
+        {
+          "number": "3",
+          "title": "おすすめモビルスーツ",
+          "description": "発売時のシリーズと機体の役割を比較し、初戦に向けて汎用・レイド・支援のバランスの取れた編成を選びましょう。"
+        },
+        {
+          "number": "4",
+          "title": "SPスキルガイド",
+          "description": "新たに加わるSPスキルが、武器のローテーション、小隊の連携、目標への押し込みとどう噛み合うのかを理解しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "トレンドのガンダムバトルオペレーション3ガイド",
+      "quickLinks": [
+        "初心者ガイド",
+        "モビルスーツ一覧",
+        "戦闘システム",
+        "ネットワークテスト"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "クラスの三すくみ、スタンのタイミング、ブースト管理、そして毎試合に活きる初陣の習慣から始めましょう。",
+          "href": "/guide/gundam-battle-operation-3-beginner-guide"
+        },
+        {
+          "badge": "機体一覧",
+          "title": "モビルスーツ一覧",
+          "description": "確認済みの発売シリーズ、レイド・汎用・支援の役割、初年度のタイムライン計画を確認。",
+          "href": "/characters/gundam-battle-operation-3-mobile-suit-roster"
+        },
+        {
+          "badge": "戦闘システム",
+          "title": "戦闘システム",
+          "description": "スタンの蓄積、武器のローテーション、格闘の追撃、ブーストでの離脱、チームの圧力を分解します。",
+          "href": "/mechanics/gundam-battle-operation-3-combat-system"
+        },
+        {
+          "badge": "テスト",
+          "title": "ネットワークテスト",
+          "description": "限定テスト期間に向けて、アカウント、ダウンロード、操作、試合計画を準備しましょう。",
+          "href": "/guide/gundam-battle-operation-3-network-test"
+        },
+        {
+          "badge": "分析",
+          "title": "ティア基準",
+          "description": "役割の適合、チーム編成、S〜Cの基準で、機体が増えても全機を評価します。",
+          "href": "/tips/gundam-battle-operation-3-tier-list"
+        },
+        {
+          "badge": "対応機種",
+          "title": "クロスプレイガイド",
+          "description": "PlayStationとSteamの共通マッチングプールがロビー、小隊、入力計画をどう変えるかを確認。",
+          "href": "/platforms/gundam-battle-operation-3-crossplay"
+        },
+        {
+          "badge": "ニュース",
+          "title": "発売日",
+          "description": "2026年10月の発表、対応機種、ネットワークテスト、発売シリーズ、発売日の更新を追跡。",
+          "href": "/guide/gundam-battle-operation-3-release-date"
+        },
+        {
+          "badge": "PC",
+          "title": "Steamガイド",
+          "description": "シリーズ初のPC版、クロスプレイ、SPスキル、発売前の準備チェックを確認。",
+          "href": "/platforms/gundam-battle-operation-3-steam"
+        },
+        {
+          "badge": "モード",
+          "title": "ゲームモード",
+          "description": "地上戦と宇宙戦のプレイリストにおけるカジュアル、ランク、カスタム、PvEを比較。",
+          "href": "/modes/gundam-battle-operation-3-game-modes"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "ガンダムバトルオペレーション3とは？",
+      "paragraphs": [
+        "ガンダムバトルオペレーション3は、バンダイナムコによるPlayStation 5とPC向けの基本プレイ無料・大規模チーム戦闘ゲームです。プレイヤーは傭兵のモビルスーツを操り、レイド・汎用・支援の三すくみを軸に、射撃圧力、スタンのタイミング、格闘の追撃、ブースト管理を組み合わせたオンライン戦闘に挑みます。",
+        "2026年10月28日の発表では、PS5とSteam間のクロスプレイ、新しいSPスキルシステム、社交拠点ベースキャンプ、『機動戦士ガンダム』『第08MS小隊』『0083 スターダストメモリー』『SEED』から登場する発売機体が確認されました。発売日は未発表です。"
+      ],
+      "stats": [
+        {
+          "label": "開発",
+          "value": "Bandai Namco Entertainment"
+        },
+        {
+          "label": "対応機種",
+          "value": "PS5 & PC"
+        },
+        {
+          "label": "発売日",
+          "value": "未定"
+        },
+        {
+          "label": "価格",
+          "value": "基本プレイ無料"
+        },
+        {
+          "label": "プレイヤー",
+          "value": "1〜18"
+        },
+        {
+          "label": "クロスプレイ",
+          "value": "PS5 + Steam"
+        },
+        {
+          "label": "発売シリーズ",
+          "value": "4"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "ガンダムバトルオペレーション3を探索",
+      "description": "確認済みのモビルスーツ一覧、戦闘システム、ネットワークテスト、対応機種、発売情報で初陣を計画しましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "ガンダムバトルオペレーション3 モビルスーツ一覧",
+          "description": "確認済みの発売シリーズ、レイド・汎用・支援の三すくみ、初年度に追加されるガンダム作品の計画を探索。",
+          "href": "/characters/gundam-battle-operation-3-mobile-suit-roster",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "環境を定義する役割：どんな編成にも合い、平均的な操作でも結果を出せる機体"
+            },
+            {
+              "label": "A",
+              "detail": "信頼できる役割：適切なチームで強く、管理すべき弱点が1つある機体"
+            },
+            {
+              "label": "B",
+              "detail": "状況次第の役割：小隊の支援で特定のマップや対面を制する機体"
+            },
+            {
+              "label": "C",
+              "detail": "ニッチな役割：緻密な連携で報われる専門特化型の機体"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "ガンダムバトルオペレーション3 初心者ガイド",
+          "description": "チーム戦闘、モビルスーツと歩兵の運用、戦場の目標、初陣を実りあるものにする習慣を学びましょう。",
+          "href": "/guide/gundam-battle-operation-3-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "まずは汎用機を選び、最も扱いやすいステータスでスタン→格闘のループを覚えましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "ブースト管理、スタン蓄積、敵小隊に囲まれる前の撤退を練習しましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "1クラスに偏らず、レイド・汎用・支援でロビーのバランスを取りましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "チュートリアルとベースキャンプの報酬を消化し、資源を分散せず2機に投資しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "ガンダムバトルオペレーション3 ゲームプレイメカニクス",
+          "description": "SPスキル、モビルスーツ戦闘、歩兵行動、戦術的なチームプレイなど中核の戦闘システムを解説。",
+          "href": "/mechanics/gundam-battle-operation-3-combat-system",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "スタン",
+              "detail": "射撃で蓄積して格闘の隙を作ります。撃ち合いではなく2つをつなげましょう。"
+            },
+            {
+              "label": "ブースト",
+              "detail": "交戦を始めた後も回避・離脱できるようゲージを残しましょう。"
+            },
+            {
+              "label": "射程",
+              "detail": "ビームライフルの射線から近接格闘まで、各武器を有効射程内で使いましょう。"
+            },
+            {
+              "label": "チーム",
+              "detail": "目標へ共に圧力をかけましょう。孤立したパイロットは機体に関係なく撃ち負けます。"
+            },
+            {
+              "label": "SPスキル",
+              "detail": "試合を左右する新能力を、武器のクールダウンと小隊のタイミングに合わせて計画しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "ガンダムバトルオペレーション3 ネットワークテスト",
+          "description": "11月20日と22日の日本限定クロスプレイ、予定されている広範なオープンテスト、限られた時間を活かす手順を追跡。",
+          "href": "/guide/gundam-battle-operation-3-network-test",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "クライアントをダウンロードする前に、実施中のテスト期間と地域を確認しましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "同じプラットフォームアカウントで登録・起動し、参加資格エラーを避けましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "初回マッチング前にビルドを事前ダウンロードし、オンボーディングを終え、カメラ感度を設定しましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "フルマッチをプレイし、操作設定を記録し、アンケートがあれば問題を報告しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "ガンダムバトルオペレーション3 SPスキルガイド",
+          "description": "発表されたSPスキルシステムと、試合を左右する発動が武器ローテーション、小隊の圧力、目標のタイミングとどう噛み合うかを理解。",
+          "href": "/mechanics/gundam-battle-operation-3-weapon-system",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "タイミング",
+              "detail": "押し込みが停滞したり側面が崩れたりしたときに発動し、クールダウン中に無駄遣いしないようにしましょう。"
+            },
+            {
+              "label": "ローテーション",
+              "detail": "射撃と格闘の道具がSPスキルの回復をカバーするよう、残りの装備を組み立てましょう。"
+            },
+            {
+              "label": "小隊",
+              "detail": "味方と発動を合わせ、短い優位を目標の確保につなげましょう。"
+            },
+            {
+              "label": "目標",
+              "detail": "単独撃破を追わず、防御線の突破や拠点確保のために切り札を使いましょう。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "ガンダムバトルオペレーション3 システム要件",
+          "description": "確認済みのPlayStation 5とSteam版、クロスプレイ対応、発売前に確認すべきPC情報を要約。",
+          "href": "/platforms/gundam-battle-operation-3-steam",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PS5",
+              "detail": "PCと並ぶ発売機種として確認済み。PS4版は発表されていません。"
+            },
+            {
+              "label": "Steam",
+              "detail": "シリーズ初のメインラインPC版。ウィッシュリスト登録と更新用のSteamページが予定されています。"
+            },
+            {
+              "label": "クロスプレイ",
+              "detail": "PlayStationとSteamのプレイヤーは発売時から1つのマッチングプールを共有します。"
+            },
+            {
+              "label": "スペック",
+              "detail": "公式のPC動作要件は未公開。アップグレード前にSteamページを確認しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "ガンダムバトルオペレーション3 クロスプレイガイド",
+          "description": "確認済みのPlayStation 5とSteamのクロスプレイ対応、共通マッチングプールが小隊や試合の質に何をもたらすかを解説。",
+          "href": "/platforms/gundam-battle-operation-3-crossplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "共通",
+              "detail": "PlayStationとSteamのプレイヤーが1つの共通マッチングプールに入ります。"
+            },
+            {
+              "label": "ロビー",
+              "detail": "クロスプレイにより、地域や人気の低いプレイリストでもマッチングが健全に保たれる見込みです。"
+            },
+            {
+              "label": "パーティ",
+              "detail": "クロスプラットフォームの正式なパーティ仕様は未公開。公式FAQで確認しましょう。"
+            },
+            {
+              "label": "進行",
+              "detail": "クロスプログレッションとバトルオペレーション2の機体引き継ぎは未発表です。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "ガンダムバトルオペレーション3 発売日とアップデート",
+          "description": "公式発売日、開発発表、新モビルスーツ公開、ゲームプレイ映像、今後のコンテンツ更新を追跡。",
+          "href": "/guide/gundam-battle-operation-3-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "発表",
+              "detail": "2026年10月28日にPS5とPC向けに発表されました。"
+            },
+            {
+              "label": "発売",
+              "detail": "発売日、シーズン、時期は発表されていません。"
+            },
+            {
+              "label": "トレーラー",
+              "detail": "発表トレーラーは6言語版で公開されました。"
+            },
+            {
+              "label": "発売時",
+              "detail": "発売時に4作品が確認済み：機動戦士ガンダム、第08MS小隊、0083、SEED。"
+            },
+            {
+              "label": "初年度",
+              "detail": "初年度にさらに2〜3のオルタナティブ作品が予定されています。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "ガンダムバトルオペレーション3 FAQ",
+      "description": "ガンダムバトルオペレーション3の対応機種、戦闘、ネットワークテスト、発売計画についての簡単な回答。",
+      "items": [
+        {
+          "question": "ガンダムバトルオペレーション3とは何ですか？",
+          "answer": "ガンダムバトルオペレーション3は、バンダイナムコによるPS5とPC向けの基本プレイ無料チーム戦闘ゲームです。プレイヤーはモビルスーツを操り、レイド・汎用・支援の三すくみを軸にした大規模オンライン戦闘に挑みます。"
+        },
+        {
+          "question": "ガンダムバトルオペレーション3はどの機種に対応しますか？",
+          "answer": "ガンダムバトルオペレーション3はPlayStation 5とSteamで確認されています。両機種はクロスプレイを共有し、PS4、Xbox、Nintendo版は発表されていません。"
+        },
+        {
+          "question": "ガンダムバトルオペレーション3の発売日はいつですか？",
+          "answer": "バンダイナムコはガンダムバトルオペレーション3の発売日を発表していません。日本限定のクロスプレイネットワークテストが11月20日と22日に予定され、より広範なオープンテストも計画されています。"
+        },
+        {
+          "question": "発売時に確認されているモビルスーツは？",
+          "answer": "ガンダムバトルオペレーション3の発売ロスターは『機動戦士ガンダム』『第08MS小隊』『0083 スターダストメモリー』『SEED』から構成されます。初年度にはさらに2〜3のオルタナティブ作品が予定されています。"
+        },
+        {
+          "question": "ガンダムバトルオペレーション3の戦闘はどう機能しますか？",
+          "answer": "ガンダムバトルオペレーション3は、射撃によるスタン蓄積、格闘の追撃、ブースト管理、レイド・汎用・支援の三すくみを組み合わせます。新しいSPスキルシステムが試合を左右する戦術オプションを追加します。"
+        },
+        {
+          "question": "ガンダムバトルオペレーション3の前にバトルオペレーション2をプレイする必要がありますか？",
+          "answer": "いいえ。ガンダムバトルオペレーション3は独立した基本プレイ無料作品です。ただし前作のクラス役割やブーストのタイミングを経験していると有利なスタートになります。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "ガンダムバトルオペレーション3を極める準備はできましたか？",
+      "description": "初陣から上級チーム戦術まで、コミュニティWikiが成功に必要なモビルスーツ、SPスキル、戦場戦略を網羅します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "PS5 & Steamでプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "ガンダムバトルオペレーション3 初心者ガイド",
+    "overviewDescription": "クラスの三すくみ、スタン戦闘、ブースト管理、ネットワークテスト、発売情報を扱う初心者ガイドで初陣を始めましょう。"
+  },
+  "platforms": {
+    "overviewTitle": "ガンダムバトルオペレーション3 対応機種とクロスプレイ",
+    "overviewDescription": "確認済みのPS5版とSteam版、PC版の発売情報、SteamDBでの発見、クロスプレイマッチングを比較。"
+  },
+  "mechanics": {
+    "overviewTitle": "ガンダムバトルオペレーション3 戦闘メカニクス",
+    "overviewDescription": "戦闘システム、武器のローテーション、モビルスーツのステータス、カスタマイズ、操作、チーム戦の基本を学びましょう。"
+  },
+  "characters": {
+    "overviewTitle": "ガンダムバトルオペレーション3 モビルスーツガイド",
+    "overviewDescription": "モビルスーツ一覧、ガンダム系機体、プレイアブル機体、クラス役割、カスタマイズを探索。"
+  },
+  "modes": {
+    "overviewTitle": "ガンダムバトルオペレーション3 ゲームモード",
+    "overviewDescription": "オンラインマルチプレイ、PvP戦闘、ランクマッチ、ガンダムバトルオペレーション3で予定されるチームベースモードを確認。"
+  },
+  "progression": {
+    "overviewTitle": "ガンダムバトルオペレーション3 進行ガイド",
+    "overviewDescription": "ランク、報酬、解除可能なモビルスーツ、長期的な格納庫を形作る進行システムを理解しましょう。"
+  },
+  "tips": {
+    "overviewTitle": "ガンダムバトルオペレーション3 攻略のコツとティアリスト",
+    "overviewDescription": "初心者向けのコツ、戦闘アドバイス、おすすめ機体、チーム戦向けの実用的なティア基準で上達しましょう。"
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "ガンダムバトルオペレーション3をプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "pageNotFound": "ページが見つかりません",
+    "notFoundDescription": "お探しのガイドは移動したか、まだ追加されていません。",
+    "browseBeginnerGuides": "初心者ガイドを見る",
+    "noGuidesAvailable": "ガイドはまだありません。近日公開予定です。"
+  },
+  "footer": {
+    "aboutTitle": "ガンダムバトルオペレーション3 Wikiについて",
+    "about": "ガンダムバトルオペレーション3 Wikiは、モビルスーツ、SPスキル、戦場戦術、対応機種、基礎知識を扱う独立系ファン制作のガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 ガンダムバトルオペレーション3 Wiki。バンダイナムコエンターテインメントおよびガンダム権利者とは提携していません。",
+    "description": "PS5とSteamでクロスプレイ対応の基本プレイ無料戦術メカチーム戦闘。",
+    "playGame": "PS5 & Steamでプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "公式X",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "モビルスーツガイド",
+    "bossGuides": "バトルガイド",
+    "buildGuide": "SPスキルガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

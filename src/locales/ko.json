@@ -1,1 +1,493 @@
-{}
+{
+  "site": {
+    "name": "건담 배틀 오퍼레이션 3 위키",
+    "shortName": "GBO3 위키",
+    "tagline": "모빌슈트 가이드, SP 스킬 & 전술 전투",
+    "description": "모빌슈트 건담 배틀 오퍼레이션 3의 기체 가이드, SP 스킬, 전투 전략, 초보자 팁, 팀 전술, 플랫폼 정보, 공식 게임 뉴스를 한곳에서 확인하세요.",
+    "legalNotice": "독립 팬 위키입니다. 반다이 남코 엔터테인먼트 및 건담 권리자와 제휴하지 않았습니다."
+  },
+  "nav": {
+    "guide": "가이드",
+    "platforms": "플랫폼",
+    "mechanics": "전투 시스템",
+    "characters": "모빌슈트",
+    "modes": "게임 모드",
+    "progression": "성장",
+    "tips": "팁",
+    "menu": "메뉴",
+    "toggleTheme": "테마 전환"
+  },
+  "home": {
+    "meta": {
+      "title": "건담 배틀 오퍼레이션 3 위키 - 기체 & 가이드",
+      "description": "건담 배틀 오퍼레이션 3의 모빌슈트 가이드, SP 스킬, 전투 전략, 초보자 팁, 팀 전술, 플랫폼 정보, 공식 게임 뉴스를 살펴보세요."
+    },
+    "hero": {
+      "eyebrow": "무료 플레이 전술 메카 팀 전투",
+      "title": "건담 배틀 오퍼레이션 3 위키",
+      "description": "모빌슈트 건담 배틀 오퍼레이션 3의 기체 가이드, 전투 전략, SP 스킬, 초보자 팁, 팀 전술, 최신 게임 뉴스를 마스터하세요.",
+      "stats": [
+        "1~18명",
+        "플랫폼 2종",
+        "출시일 미정",
+        "무료 플레이"
+      ],
+      "primaryCta": "초보자 가이드",
+      "secondaryCta": "PS5 & Steam에서 플레이",
+      "tertiaryCta": "SP 스킬 가이드",
+      "videoLabel": "공식 미디어"
+    },
+    "updates": {
+      "title": "최신 업데이트",
+      "browse": "모든 가이드 둘러보기",
+      "viewAll": "전체 보기"
+    },
+    "start": {
+      "eyebrow": "여기서 시작하세요",
+      "title": "건담 배틀 오퍼레이션 3 여정",
+      "cards": [
+        {
+          "number": "1",
+          "title": "초보자 가이드",
+          "description": "레이드·제너럴·서포트 클래스 삼각 관계를 익히고, 스턴 타이밍, 부스트 관리, 베이스 캠프 기본기를 중심으로 첫 출격 계획을 세우세요."
+        },
+        {
+          "number": "2",
+          "title": "전투 기본",
+          "description": "건담 배틀 오퍼레이션 3의 교전을 좌우하는 스턴→근접 콤보, 사거리 구간, 부스트 관리를 익히세요."
+        },
+        {
+          "number": "3",
+          "title": "최고의 모빌슈트",
+          "description": "출시 시리즈와 기체 역할을 비교하고 첫 경기를 위해 제너럴·레이드·서포트가 균형 잡힌 편성을 고르세요."
+        },
+        {
+          "number": "4",
+          "title": "SP 스킬 가이드",
+          "description": "새로운 SP 스킬 계층이 무기 로테이션, 분대 타이밍, 목표 밀어붙이기와 어떻게 맞물리는지 이해하세요."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "인기 페이지",
+      "title": "인기 건담 배틀 오퍼레이션 3 가이드",
+      "quickLinks": [
+        "초보자 가이드",
+        "모빌슈트 로스터",
+        "전투 시스템",
+        "네트워크 테스트"
+      ],
+      "cards": [
+        {
+          "badge": "초보자",
+          "title": "초보자 가이드",
+          "description": "클래스 삼각 관계, 스턴 타이밍, 부스트 관리, 모든 경기에 이어지는 첫 출격 습관부터 시작하세요.",
+          "href": "/guide/gundam-battle-operation-3-beginner-guide"
+        },
+        {
+          "badge": "로스터",
+          "title": "모빌슈트 로스터",
+          "description": "확인된 출시 시리즈, 레이드·제너럴·서포트 역할, 1년 차 타임라인 계획을 검토하세요.",
+          "href": "/characters/gundam-battle-operation-3-mobile-suit-roster"
+        },
+        {
+          "badge": "전투 시스템",
+          "title": "전투 시스템",
+          "description": "스턴 축적, 무기 로테이션, 근접 후속타, 부스트 회피, 팀 압박을 분석합니다.",
+          "href": "/mechanics/gundam-battle-operation-3-combat-system"
+        },
+        {
+          "badge": "테스트",
+          "title": "네트워크 테스트",
+          "description": "한정된 건담 배틀 오퍼레이션 3 테스트 기간에 맞춰 계정, 다운로드, 조작, 경기 계획을 준비하세요.",
+          "href": "/guide/gundam-battle-operation-3-network-test"
+        },
+        {
+          "badge": "분석",
+          "title": "티어 기준",
+          "description": "역할 적합성, 팀 구성, S~C 기준으로 로스터가 늘어나도 모든 기체를 평가하세요.",
+          "href": "/tips/gundam-battle-operation-3-tier-list"
+        },
+        {
+          "badge": "플랫폼",
+          "title": "크로스플레이 가이드",
+          "description": "PlayStation과 Steam의 공유 매치메이킹 풀이 로비, 분대, 입력 계획을 어떻게 바꾸는지 확인하세요.",
+          "href": "/platforms/gundam-battle-operation-3-crossplay"
+        },
+        {
+          "badge": "뉴스",
+          "title": "출시일",
+          "description": "2026년 10월 공개, 확인된 플랫폼, 네트워크 테스트, 출시 시리즈, 출시일 업데이트를 추적하세요.",
+          "href": "/guide/gundam-battle-operation-3-release-date"
+        },
+        {
+          "badge": "PC",
+          "title": "Steam 가이드",
+          "description": "시리즈 최초 PC 출시, 확인된 크로스플레이, SP 스킬, 출시 전 준비 점검을 검토하세요.",
+          "href": "/platforms/gundam-battle-operation-3-steam"
+        },
+        {
+          "badge": "모드",
+          "title": "게임 모드",
+          "description": "지상전과 우주전 플레이리스트의 캐주얼, 랭크, 커스텀, PvE 대기열을 비교하세요.",
+          "href": "/modes/gundam-battle-operation-3-game-modes"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "건담 배틀 오퍼레이션 3란?",
+      "paragraphs": [
+        "건담 배틀 오퍼레이션 3는 반다이 남코의 PlayStation 5 및 PC용 무료 플레이 대규모 팀 전투 게임입니다. 플레이어는 용병 모빌슈트를 조종해 레이드·제너럴·서포트 클래스 삼각 관계를 중심으로 원거리 압박, 스턴 타이밍, 근접 후속타, 부스트 관리를 조합한 온라인 전투에 나섭니다.",
+        "2026년 10월 28일 공개에서는 PS5와 Steam 간 크로스플레이, 새로운 SP 스킬 시스템, 소셜 거점 베이스 캠프, 『기동전사 건담』 『제08MS소대』 『0083: 스타더스트 메모리』 『SEED』에서 등장하는 출시 기체가 확인되었습니다. 출시일은 아직 발표되지 않았습니다."
+      ],
+      "stats": [
+        {
+          "label": "개발",
+          "value": "Bandai Namco Entertainment"
+        },
+        {
+          "label": "플랫폼",
+          "value": "PS5 & PC"
+        },
+        {
+          "label": "출시일",
+          "value": "미정"
+        },
+        {
+          "label": "가격",
+          "value": "무료 플레이"
+        },
+        {
+          "label": "플레이어",
+          "value": "1~18"
+        },
+        {
+          "label": "크로스플레이",
+          "value": "PS5 + Steam"
+        },
+        {
+          "label": "출시 시리즈",
+          "value": "4"
+        }
+      ],
+      "cta": "모든 가이드 둘러보기"
+    },
+    "explore": {
+      "title": "건담 배틀 오퍼레이션 3 둘러보기",
+      "description": "확인된 모빌슈트 로스터, 전투 시스템, 네트워크 테스트 정보, 플랫폼 정보, 출시 업데이트로 첫 출격을 계획하세요.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "건담 배틀 오퍼레이션 3 모빌슈트 로스터",
+          "description": "확인된 출시 시리즈, 레이드·제너럴·서포트 클래스 삼각 관계, 추가 건담 타임라인의 1년 차 계획을 살펴보세요.",
+          "href": "/characters/gundam-battle-operation-3-mobile-suit-roster",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "메타를 정의하는 역할: 어떤 조합에도 맞고 평균적인 조작으로도 성과를 내는 기체"
+            },
+            {
+              "label": "A",
+              "detail": "신뢰할 수 있는 역할: 적합한 팀에서 강하며 관리할 약점이 하나인 기체"
+            },
+            {
+              "label": "B",
+              "detail": "상황형 역할: 분대 지원으로 특정 맵이나 상성에서 이기는 기체"
+            },
+            {
+              "label": "C",
+              "detail": "틈새 역할: 치밀한 팀 협동으로 보상받는 좁은 전문 기체"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "건담 배틀 오퍼레이션 3 초보자 가이드",
+          "description": "팀 기반 전투, 모빌슈트와 보병 운용, 전장 목표, 첫 출격을 생산적으로 만드는 습관을 배우세요.",
+          "href": "/guide/gundam-battle-operation-3-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "가장 다루기 쉬운 스탯으로 제너럴 기체를 먼저 골라 스턴-근접 루프를 익히세요."
+            },
+            {
+              "label": "2",
+              "detail": "부스트 관리, 스턴 축적, 적 분대가 몰리기 전 후퇴를 연습하세요."
+            },
+            {
+              "label": "3",
+              "detail": "한 클래스만 쌓지 말고 레이드·제너럴·서포트로 로비 균형을 맞추세요."
+            },
+            {
+              "label": "4",
+              "detail": "튜토리얼과 베이스 캠프 보상을 마치고 자원을 분산하지 말고 기체 두 대에 투자하세요."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "건담 배틀 오퍼레이션 3 게임플레이 메커니즘",
+          "description": "SP 스킬, 모빌슈트 전투, 보병 행동, 전술적 팀 플레이 등 핵심 전투 시스템을 설명합니다.",
+          "href": "/mechanics/gundam-battle-operation-3-combat-system",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "스턴",
+              "detail": "원거리 축적으로 근접 기회를 열고, 사격을 주고받는 대신 둘을 연결하세요."
+            },
+            {
+              "label": "부스트",
+              "detail": "교전에 뛰어든 뒤 회피하거나 이탈할 수 있도록 게이지를 남기세요."
+            },
+            {
+              "label": "사거리",
+              "detail": "빔 라이플 사선부터 근접전까지 각 무기를 유효 사거리 안에서 사용하세요."
+            },
+            {
+              "label": "팀",
+              "detail": "목표에 함께 압박을 가하세요. 고립된 파일럿은 기체와 관계없이 교전에서 밀립니다."
+            },
+            {
+              "label": "SP 스킬",
+              "detail": "경기를 뒤집는 새 능력을 무기 쿨다운과 분대 타이밍에 맞춰 계획하세요."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "건담 배틀 오퍼레이션 3 네트워크 테스트",
+          "description": "11월 20일과 22일 일본 한정 크로스플레이 세션, 예정된 광범위 오픈 테스트, 한정된 기간을 활용하는 단계를 추적하세요.",
+          "href": "/guide/gundam-battle-operation-3-network-test",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "클라이언트를 다운로드하기 전에 진행 중인 테스트 기간과 지역을 확인하세요."
+            },
+            {
+              "label": "2",
+              "detail": "같은 플랫폼 계정으로 등록하고 실행해 참가 자격 오류를 피하세요."
+            },
+            {
+              "label": "3",
+              "detail": "첫 매치메이킹 전에 빌드를 미리 받고 온보딩을 마친 뒤 카메라 감도를 설정하세요."
+            },
+            {
+              "label": "4",
+              "detail": "풀 매치를 플레이하고 조작 설정을 기록하며 설문이 있으면 문제를 보고하세요."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "건담 배틀 오퍼레이션 3 SP 스킬 가이드",
+          "description": "발표된 SP 스킬 시스템과 경기를 뒤집는 발동이 무기 로테이션, 분대 압박, 목표 타이밍과 어떻게 맞물리는지 이해하세요.",
+          "href": "/mechanics/gundam-battle-operation-3-weapon-system",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "타이밍",
+              "detail": "밀어붙이기가 정체되거나 측면이 무너질 때 발동하고, 쿨다운 중에 낭비하지 마세요."
+            },
+            {
+              "label": "로테이션",
+              "detail": "원거리와 근접 도구가 SP 스킬 회복을 메우도록 나머지 장비를 구성하세요."
+            },
+            {
+              "label": "분대",
+              "detail": "팀원과 발동을 맞춰 짧은 우위를 목표 거점 확보로 전환하세요."
+            },
+            {
+              "label": "목표",
+              "detail": "단독 처치를 쫓지 말고 방어선을 깨거나 거점을 확보하는 데 결정타를 사용하세요."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "건담 배틀 오퍼레이션 3 시스템 요구 사항",
+          "description": "확인된 PlayStation 5 및 Steam 출시, 크로스플레이 지원, 출시 전 확인할 PC 정보를 요약합니다.",
+          "href": "/platforms/gundam-battle-operation-3-steam",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "PS5",
+              "detail": "PC와 함께 출시 플랫폼으로 확인되었으며 PS4 버전은 발표되지 않았습니다."
+            },
+            {
+              "label": "Steam",
+              "detail": "시리즈 최초의 메인라인 PC 출시로, 위시리스트와 업데이트용 Steam 페이지가 예정되어 있습니다."
+            },
+            {
+              "label": "크로스플레이",
+              "detail": "PlayStation과 Steam 플레이어는 출시부터 하나의 매치메이킹 풀을 공유합니다."
+            },
+            {
+              "label": "사양",
+              "detail": "공식 PC 하드웨어 요구 사항은 공개되지 않았습니다. 업그레이드 전에 Steam 페이지를 확인하세요."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "건담 배틀 오퍼레이션 3 크로스플레이 가이드",
+          "description": "확인된 PlayStation 5와 Steam 크로스플레이 지원, 공유 매치메이킹 풀이 분대와 경기 품질에 무엇을 의미하는지 설명합니다.",
+          "href": "/platforms/gundam-battle-operation-3-crossplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "공유",
+              "detail": "PlayStation과 Steam 플레이어가 하나의 공유 매치메이킹 풀에 들어갑니다."
+            },
+            {
+              "label": "로비",
+              "detail": "크로스플레이는 지역과 인기 낮은 플레이리스트 전반에서 대기열을 더 건강하게 유지할 것입니다."
+            },
+            {
+              "label": "파티",
+              "detail": "공식 크로스 플랫폼 파티 동작은 아직 자세히 공개되지 않았습니다. 공식 FAQ에서 확인하세요."
+            },
+            {
+              "label": "진행",
+              "detail": "크로스 진행과 배틀 오퍼레이션 2 기체 이전은 발표되지 않았습니다."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "건담 배틀 오퍼레이션 3 출시일 및 업데이트",
+          "description": "공식 출시일, 개발 발표, 신규 모빌슈트 공개, 게임플레이 시연, 향후 콘텐츠 업데이트를 추적하세요.",
+          "href": "/guide/gundam-battle-operation-3-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "발표",
+              "detail": "2026년 10월 28일 PS5와 PC용으로 공개되었습니다."
+            },
+            {
+              "label": "출시 시",
+              "detail": "출시일, 시즌, 기간은 발표되지 않았습니다."
+            },
+            {
+              "label": "트레일러",
+              "detail": "공개 트레일러는 6개 언어 버전으로 게시되었습니다."
+            },
+            {
+              "label": "출시",
+              "detail": "출시 시점에 네 작품이 확인되었습니다: 기동전사 건담, 제08MS소대, 0083, SEED."
+            },
+            {
+              "label": "1년 차",
+              "detail": "1년 차에 추가로 2~3개의 얼터너티브 타임라인 작품이 계획되어 있습니다."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "건담 배틀 오퍼레이션 3 FAQ",
+      "description": "건담 배틀 오퍼레이션 3의 플랫폼, 전투, 네트워크 테스트, 출시 계획에 대한 빠른 답변.",
+      "items": [
+        {
+          "question": "건담 배틀 오퍼레이션 3란 무엇인가요?",
+          "answer": "건담 배틀 오퍼레이션 3는 반다이 남코의 PS5와 PC용 무료 플레이 팀 전투 게임입니다. 플레이어는 모빌슈트를 조종해 레이드·제너럴·서포트 클래스 삼각 관계를 중심으로 대규모 온라인 전투에 나섭니다."
+        },
+        {
+          "question": "건담 배틀 오퍼레이션 3는 어떤 플랫폼을 지원하나요?",
+          "answer": "건담 배틀 오퍼레이션 3는 PlayStation 5와 Steam으로 확인되었습니다. 두 플랫폼은 크로스플레이를 공유하며 PS4, Xbox, Nintendo 버전은 발표되지 않았습니다."
+        },
+        {
+          "question": "건담 배틀 오퍼레이션 3는 언제 출시되나요?",
+          "answer": "반다이 남코는 건담 배틀 오퍼레이션 3의 출시일을 발표하지 않았습니다. 일본 한정 크로스플레이 네트워크 테스트가 11월 20일과 22일에 예정되어 있으며 더 넓은 오픈 테스트도 계획되어 있습니다."
+        },
+        {
+          "question": "출시 시점에 확인된 모빌슈트는 무엇인가요?",
+          "answer": "건담 배틀 오퍼레이션 3의 출시 로스터는 『기동전사 건담』 『제08MS소대』 『0083: 스타더스트 메모리』 『SEED』로 구성됩니다. 1년 차에 추가로 2~3개의 얼터너티브 작품이 계획되어 있습니다."
+        },
+        {
+          "question": "건담 배틀 오퍼레이션 3의 전투는 어떻게 진행되나요?",
+          "answer": "건담 배틀 오퍼레이션 3는 원거리 스턴 축적, 근접 후속타, 부스트 관리, 레이드·제너럴·서포트 클래스 삼각 관계를 결합합니다. 새로운 SP 스킬 시스템이 경기를 뒤집는 전술 옵션을 더합니다."
+        },
+        {
+          "question": "건담 배틀 오퍼레이션 3 전에 배틀 오퍼레이션 2를 해야 하나요?",
+          "answer": "아니요. 건담 배틀 오퍼레이션 3는 독립형 무료 플레이 작품입니다. 다만 전작의 클래스 역할과 부스트 타이밍 경험이 있으면 유리하게 시작할 수 있습니다."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "건담 배틀 오퍼레이션 3를 마스터할 준비가 되셨나요?",
+      "description": "첫 출격부터 고급 팀 전술까지, 커뮤니티 위키가 성공에 필요한 모빌슈트, SP 스킬, 전장 전략을 다룹니다.",
+      "primary": "초보자 가이드 읽기",
+      "secondary": "PS5 & Steam에서 플레이"
+    }
+  },
+  "guide": {
+    "overviewTitle": "건담 배틀 오퍼레이션 3 초보자 가이드",
+    "overviewDescription": "클래스 삼각 관계, 스턴 전투, 부스트 관리, 네트워크 테스트, 출시 정보를 다루는 초보자 가이드로 첫 출격을 시작하세요."
+  },
+  "platforms": {
+    "overviewTitle": "건담 배틀 오퍼레이션 3 플랫폼 및 크로스플레이",
+    "overviewDescription": "확인된 PS5와 Steam 버전, PC 출시 정보, SteamDB 발견, 크로스플레이 매치메이킹을 비교하세요."
+  },
+  "mechanics": {
+    "overviewTitle": "건담 배틀 오퍼레이션 3 전투 메커니즘",
+    "overviewDescription": "전투 시스템, 무기 로테이션, 모빌슈트 스탯, 커스터마이징, 조작, 팀 전투 기본기를 배우세요."
+  },
+  "characters": {
+    "overviewTitle": "건담 배틀 오퍼레이션 3 모빌슈트 가이드",
+    "overviewDescription": "모빌슈트 로스터, 건담 기체, 플레이 가능 기체, 클래스 역할, 커스터마이징 옵션을 살펴보세요."
+  },
+  "modes": {
+    "overviewTitle": "건담 배틀 오퍼레이션 3 게임 모드",
+    "overviewDescription": "온라인 멀티플레이, PvP 전투, 랭크 매치, 건담 배틀 오퍼레이션 3에 예정된 팀 기반 모드를 검토하세요."
+  },
+  "progression": {
+    "overviewTitle": "건담 배틀 오퍼레이션 3 성장 가이드",
+    "overviewDescription": "랭크, 보상, 해금 가능한 모빌슈트, 장기 격납고를 형성하는 성장 시스템을 이해하세요."
+  },
+  "tips": {
+    "overviewTitle": "건담 배틀 오퍼레이션 3 팁 및 티어 리스트",
+    "overviewDescription": "초보자 팁, 전투 조언, 최고의 모빌슈트 선택, 팀 전투를 위한 실용적인 티어 기준으로 실력을 높이세요."
+  },
+  "shared": {
+    "wikiNavigation": "위키 내비게이션",
+    "activeCodes": "활성 코드",
+    "updated": "업데이트",
+    "viewAllCodes": "모든 코드 보기",
+    "playOnRoblox": "건담 배틀 오퍼레이션 3 플레이",
+    "inThisSection": "이 섹션",
+    "tableOfContents": "목차",
+    "nextSteps": "다음 단계",
+    "needHelp": "도움이 필요하신가요?",
+    "relatedReading": "관련 읽기",
+    "relatedGuides": "관련 가이드",
+    "readMore": "더 읽기",
+    "officialMedia": "공식 미디어",
+    "home": "홈",
+    "pageNotFound": "페이지를 찾을 수 없습니다",
+    "notFoundDescription": "찾으시는 가이드가 이동되었거나 아직 추가되지 않았습니다.",
+    "browseBeginnerGuides": "초보자 가이드 둘러보기",
+    "noGuidesAvailable": "아직 가이드가 없습니다. 곧 다시 확인해 주세요!"
+  },
+  "footer": {
+    "aboutTitle": "건담 배틀 오퍼레이션 3 위키 소개",
+    "about": "건담 배틀 오퍼레이션 3 위키는 모빌슈트, SP 스킬, 전장 전술, 플랫폼 정보, 필수 게임 지식을 다루는 독립 팬 제작 가이드 허브입니다.",
+    "quickLinks": "빠른 링크",
+    "guides": "가이드",
+    "legal": "법적 고지",
+    "copyright": "2026 건담 배틀 오퍼레이션 3 위키. 반다이 남코 엔터테인먼트 및 건담 권리자와 제휴하지 않았습니다.",
+    "description": "PS5와 Steam에서 크로스플레이를 지원하는 무료 플레이 전술 메카 팀 전투.",
+    "playGame": "PS5 & Steam에서 플레이",
+    "officialDiscord": "공식 Discord",
+    "officialYoutube": "공식 YouTube",
+    "vvBuilder": "공식 X",
+    "beginnerGuide": "초보자 가이드",
+    "raceGuides": "모빌슈트 가이드",
+    "bossGuides": "전투 가이드",
+    "buildGuide": "SP 스킬 가이드",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfService": "이용약관"
+  }
+}
