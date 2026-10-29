@@ -25,12 +25,15 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
+  const title = "Gundam Battle Operation 3 Wiki";
+  const description = "Master Mobile Suit Gundam Battle Operation 3 with unit guides, SP Skills, combat strategies, beginner tips, team tactics, platform details, and official game news.";
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "Gundam Battle Operation 3 Wiki", template: "%s" },
-    description: "Master Mobile Suit Gundam Battle Operation 3 with unit guides, SP Skills, combat strategies, beginner tips, team tactics, platform details, and official game news.",
+    title: { default: title, template: "%s" },
+    description,
+    alternates: { canonical: `/${locale}` },
     manifest: "/manifest.json",
     icons: {
       icon: [
@@ -43,8 +46,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
       shortcut: ["/favicon.ico"],
     },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: `${siteUrl}/${locale}`, siteName: siteConfig.name, title, description, images: [{ url: image, width: 1280, height: 720, alt: `${siteConfig.name} hero image` }] },
+    twitter: { card: "summary_large_image", title, description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -59,8 +62,8 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     "@type": "Organization",
     name: siteConfig.name,
     url: siteUrl,
-    logo: `${siteUrl}/android-chrome-512x512.png`,
-    image: `${siteUrl}/images/hero.webp`,
+    "logo": `${siteUrl}/android-chrome-512x512.png`,
+    "image": `${siteUrl}/images/hero.webp`,
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;

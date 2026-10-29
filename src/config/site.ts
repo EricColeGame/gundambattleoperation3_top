@@ -25,11 +25,13 @@ export const siteConfig: SiteConfig = {
   tagline: "Mobile Suit Guides, SP Skills & Tactical Combat",
   description: "Master Mobile Suit Gundam Battle Operation 3 with unit guides, SP Skills, combat strategies, beginner tips, team tactics, platform details, and official game news.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://gundambattleoperation3.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://gundambattleoperation3.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@gundambattleoperation3.top",
   gameUrl: "https://bobobo-sp.ggame.jp/en/",
   heroVideoId: "hTdVcrrSK1w", // Official MOBILE SUIT GUNDAM BATTLE OPERATION 3 announcement trailer
   social: {
+    discord: "https://discord.gg/GBO3",
     youtube: "https://www.youtube.com/watch?v=hTdVcrrSK1w",
+    twitter: "https://x.com/GBO_EN",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",

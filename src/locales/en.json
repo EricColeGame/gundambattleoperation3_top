@@ -4,7 +4,7 @@
     "shortName": "GBO3 Wiki",
     "tagline": "Mobile Suit Guides, SP Skills & Tactical Combat",
     "description": "Master Mobile Suit Gundam Battle Operation 3 with unit guides, SP Skills, combat strategies, beginner tips, team tactics, platform details, and official game news.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "legalNotice": "Independent fan wiki. Not affiliated with Bandai Namco Entertainment Inc. or the Gundam rights holders."
   },
   "nav": {
     "races": "Races",
@@ -40,7 +40,7 @@
         "Free-to-Play"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Mobile Suit Roster",
+      "secondaryCta": "Play on PS5 & Steam",
       "tertiaryCta": "SP Skills Guide",
       "videoLabel": "Official media"
     },
@@ -343,9 +343,9 @@
     },
     "finalCta": {
       "title": "Ready to Master Gundam Battle Operation 3?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "description": "From your first sortie to advanced team tactics, our community wiki covers the mobile suits, SP Skills, and battlefield strategies you need to succeed.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Play on PS5 & Steam"
     }
   },
   "bosses": {
@@ -379,21 +379,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "Gundam Battle Operation 3 Wiki",
-    "about": "Gundam Battle Operation 3 Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "About Gundam Battle Operation 3 Wiki",
+    "about": "Gundam Battle Operation 3 Wiki is an independent fan-built guide hub covering mobile suits, SP Skills, battlefield tactics, platform details, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 Gundam Battle Operation 3 Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play Gundam Battle Operation 3",
+    "copyright": "2026 Gundam Battle Operation 3 Wiki. Not affiliated with Bandai Namco Entertainment Inc. or the Gundam rights holders.",
+    "description": "Free-to-play tactical mecha team combat on PS5 and Steam with cross-play.",
+    "playGame": "Play on PS5 & Steam",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Official X",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Mobile Suit Guides",
+    "bossGuides": "Battle Guides",
+    "buildGuide": "SP Skills Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
