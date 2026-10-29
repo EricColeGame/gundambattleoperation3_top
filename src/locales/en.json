@@ -6,7 +6,17 @@
     "description": "Master Mobile Suit Gundam Battle Operation 3 with unit guides, SP Skills, combat strategies, beginner tips, team tactics, platform details, and official game news.",
     "legalNotice": "Independent fan wiki. Not affiliated with Bandai Namco Entertainment Inc. or the Gundam rights holders."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "platforms": "Platforms",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "modes": "Modes",
+    "progression": "Progression",
+    "tips": "Tips",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Gundam Battle Operation 3 Wiki - Units & Guides",
@@ -413,7 +423,34 @@
       "secondary": "Play on PS5 & Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Gundam Battle Operation 3 Beginner Guides",
+    "overviewDescription": "Start your first sortie with beginner guides covering the class triangle, stun combat, boost management, network tests, and launch details."
+  },
+  "platforms": {
+    "overviewTitle": "Gundam Battle Operation 3 Platforms and Crossplay",
+    "overviewDescription": "Compare the confirmed PS5 and Steam versions, PC release details, SteamDB sightings, and crossplay matchmaking."
+  },
+  "mechanics": {
+    "overviewTitle": "Gundam Battle Operation 3 Combat Mechanics",
+    "overviewDescription": "Learn the combat system, weapon rotations, mobile suit stats, customization, controls, and team battle fundamentals."
+  },
+  "characters": {
+    "overviewTitle": "Gundam Battle Operation 3 Mobile Suit Guides",
+    "overviewDescription": "Explore the mobile suit roster, Gundam units, playable suits, class roles, and customization options."
+  },
+  "modes": {
+    "overviewTitle": "Gundam Battle Operation 3 Game Modes",
+    "overviewDescription": "Review online multiplayer, PvP battles, ranked matches, and the team-based modes planned for Gundam Battle Operation 3."
+  },
+  "progression": {
+    "overviewTitle": "Gundam Battle Operation 3 Progression Guides",
+    "overviewDescription": "Understand ranks, rewards, unlockable mobile suits, and the progression systems that shape your long-term hangar."
+  },
+  "tips": {
+    "overviewTitle": "Gundam Battle Operation 3 Tips and Tier Lists",
+    "overviewDescription": "Improve with beginner tips, combat advice, best mobile suit picks, and a practical tier framework for team battles."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
